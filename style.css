@@ -1,0 +1,12 @@
+body {
+    background: url(light_theme.jpg);
+    background: url(dark_theme.jpg);
+}
+
+.layout-container {
+    display: grid;
+}
+
+img {
+    max-width: 200px;
+}
